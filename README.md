@@ -1,4 +1,4 @@
-# Code for Build Your Own Face Recognition Tool With Python
+# Code for building Face Recognition Tool With Python
 
 This is a small project to demonstrate how to build a face recognition tool using Python. 
 
